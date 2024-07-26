@@ -1,0 +1,13 @@
+C:\Users\Rodrigo\Desktop\DRCA\.net\descktop_and_api\app\bin\Debug\app.exe.config
+C:\Users\Rodrigo\Desktop\DRCA\.net\descktop_and_api\app\bin\Debug\app.exe
+C:\Users\Rodrigo\Desktop\DRCA\.net\descktop_and_api\app\bin\Debug\app.pdb
+C:\Users\Rodrigo\Desktop\DRCA\.net\descktop_and_api\app\obj\Debug\app.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\DRCA\.net\descktop_and_api\app\obj\Debug\app.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\DRCA\.net\descktop_and_api\app\obj\Debug\app.csproj.GenerateResource.cache
+C:\Users\Rodrigo\Desktop\DRCA\.net\descktop_and_api\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\DRCA\.net\descktop_and_api\app\obj\Debug\app.exe
+C:\Users\Rodrigo\Desktop\DRCA\.net\descktop_and_api\app\obj\Debug\app.pdb
+C:\Users\Rodrigo\Desktop\DRCA\.net\descktop_and_api\app\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rodrigo\Desktop\DRCA\.net\descktop_and_api\app\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rodrigo\Desktop\DRCA\.net\descktop_and_api\app\obj\Debug\app.Form1.resources
+C:\Users\Rodrigo\Desktop\DRCA\.net\descktop_and_api\app\obj\Debug\app.csproj.Up2Date
